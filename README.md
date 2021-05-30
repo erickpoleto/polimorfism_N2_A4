@@ -1,4 +1,4 @@
-# Atividade de oop - sistema para controle de times esportivos
+# Atividade de oop - Polimorfismo
 
 ### RUN
 
